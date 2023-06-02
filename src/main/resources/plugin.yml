@@ -1,0 +1,4 @@
+name: ClickableSigns
+version: '${project.version}'
+main: dev.xernas.clickablesigns.ClickableSigns
+api-version: 1.19
